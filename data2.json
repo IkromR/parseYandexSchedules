@@ -1,7 +1,7 @@
 {"stations": [
 {
     "direction": "",
-    "codes": ""{
+    "codes": {
         "yandex_code": "s9628674"
     },
     "station_type": "airport",
